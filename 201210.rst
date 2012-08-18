@@ -19,16 +19,11 @@ pyspa 自体の詳細は README.rst を読む事
 ----
 
 - @voluntas
-- @aohta (未定)
-- @tokibito (未定)
 
 一般
 ----
 
 :募集人数: 24 名
-
-- @aodag (未定)
-- @nishio (未定)
 
 遠方
 ----
