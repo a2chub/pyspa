@@ -14,25 +14,32 @@ pyspa 自体の詳細は README.rst を読む事
 
 **参加者募集中**
 
+定員に達してますが、キャンセルが出るのでキャンセル待ちに並んでおくことをお薦めします
+
 https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt5NWc6MQ#gid=0
 
 参加予定一覧
 ============
 
+募集人数 28 名
+
 主催
 ----
 
 - @voluntas
+- @aohta
+- @tokibito
 
 皆勤
 ----
 
 - @nishio
+- @aodag
 
 一般
 ----
 
-:募集人数: 24 名
+:募集人数: 23 名
 
 - @tk0miya
 - @moriyoshi
@@ -44,22 +51,24 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @drillbits
 - @ymotongpoo
 - @AHG100P
-
-遠方
-----
-
-:募集人数: 1 名
-
-あしながおっさんたちから交通費への補助が出るかもしれません。参加費用は出ません。
-
-熱海からかなり離れていることが最低条件。200 キロ以上離れてるとか。
+- @tk0miya
+- @akisutesama
+- @shkumagai
+- @flag_boy
+- @yoshiori
+- @monjudoh
+- @Isoparametric
+- @peketamin
+- @IanMLewis
+- @_2F_1
+- @feiz
+- @ransui
+- @Surgo
 
 キャンセル待ち
 --------------
 
-
-
-あしながおっさん
-----------------
-
-遠方からの参加者に対して援助したい人募集中
+- @shiumachi
+- @torufurukawa
+- @hiroki_niinuma
+- @nanimosa
