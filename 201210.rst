@@ -14,7 +14,7 @@ pyspa 自体の詳細は README.rst を読む事
 
 **参加者募集中**
 
-定員に達してますが、キャンセルが出るのでキャンセル待ちに並んでおくことをお薦めします
+定員に達してますが、基本的にキャンセルが出ますので興味があれば是非
 
 https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt5NWc6MQ#gid=0
 
@@ -51,7 +51,6 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @drillbits
 - @ymotongpoo
 - @AHG100P
-- @tk0miya
 - @akisutesama
 - @shkumagai
 - @flag_boy
@@ -64,11 +63,11 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @feiz
 - @ransui
 - @Surgo
+- @shiumachi
 
 キャンセル待ち
 --------------
 
-- @shiumachi
 - @torufurukawa
 - @hiroki_niinuma
 - @nanimosa
