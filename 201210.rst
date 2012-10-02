@@ -60,16 +60,20 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @peketamin
 - @IanMLewis
 - @_2F_1
-- @feiz
 - @ransui
 - @Surgo
 - @shiumachi
+- @torufurukawa
 
 キャンセル待ち
 --------------
 
-- @torufurukawa
 - @hiroki_niinuma
 - @nanimosa
 - @Masahito
 - @tokoroten
+
+キャンセル
+----------
+
+- @feiz
