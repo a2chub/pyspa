@@ -56,7 +56,6 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @flag_boy (土日)
 - @yoshiori
 - @monjudoh
-- @Isoparametric
 - @peketamin
 - @IanMLewis
 - @_2F_1
@@ -64,11 +63,11 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @Surgo
 - @shiumachi
 - @torufurukawa
+- @hiroki_niinuma
 
 キャンセル待ち
 --------------
 
-- @hiroki_niinuma
 - @nanimosa
 - @Masahito
 - @tokoroten
@@ -77,3 +76,4 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 ----------
 
 - @feiz
+- @Isoparametric
