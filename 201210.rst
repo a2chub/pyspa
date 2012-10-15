@@ -43,7 +43,6 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 
 - @tk0miya
 - @moriyoshi
-- @takabow
 - @_nishigori
 - @jbking
 - @turky
@@ -64,12 +63,11 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @shiumachi
 - @torufurukawa
 - @hiroki_niinuma
+- @Masahito
 
 キャンセル待ち
 --------------
 
-- @nanimosa
-- @Masahito
 - @tokoroten
 
 キャンセル
@@ -77,3 +75,5 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 
 - @feiz
 - @Isoparametric
+- @nanimosa
+- @takabow
