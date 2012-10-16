@@ -59,7 +59,6 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @IanMLewis
 - @_2F_1
 - @ransui
-- @Surgo
 - @shiumachi
 - @torufurukawa
 - @hiroki_niinuma
@@ -77,3 +76,4 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @Isoparametric
 - @nanimosa
 - @takabow
+- @Surgo
