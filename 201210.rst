@@ -55,7 +55,6 @@ pyspa 自体の詳細は README.rst を読む事
 - @IanMLewis (土日)
 - @_2F_1
 - @ransui
-- @Surgo
 - @shiumachi
 - @torufurukawa
 - @hiroki_niinuma
@@ -69,3 +68,4 @@ pyspa 自体の詳細は README.rst を読む事
 - @Isoparametric
 - @nanimosa
 - @takabow
+- @Surgo
