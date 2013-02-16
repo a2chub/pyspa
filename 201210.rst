@@ -12,16 +12,12 @@ pyspa 自体の詳細は README.rst を読む事
 募集
 ====
 
-**参加者募集中**
-
-定員に達してますが、基本的にキャンセルが出ますので興味があれば是非
-
-https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt5NWc6MQ#gid=0
+**募集終了**
 
 参加予定一覧
 ============
 
-募集人数 28 名
+募集人数 29 名
 
 主催
 ----
@@ -39,7 +35,7 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 一般
 ----
 
-:募集人数: 23 名
+:募集人数: 24 名
 
 - @tk0miya
 - @moriyoshi
@@ -52,11 +48,11 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @AHG100P
 - @akisutesama
 - @shkumagai
-- @flag_boy (土日)
+- @flag_boy
 - @yoshiori
 - @monjudoh
 - @peketamin
-- @IanMLewis
+- @IanMLewis (土日)
 - @_2F_1
 - @ransui
 - @Surgo
@@ -64,10 +60,6 @@ https://docs.google.com/spreadsheet/viewform?formkey=dFd4cmNRTUw3clM5LU1NRzJTdGt
 - @torufurukawa
 - @hiroki_niinuma
 - @Masahito
-
-キャンセル待ち
---------------
-
 - @tokoroten
 
 キャンセル
